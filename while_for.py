@@ -1,4 +1,4 @@
-# for numero in range(1, 16):
+num# for numero in range(1, 16):
 #     print("Número for:", numero)
 
 # contador = 1
@@ -28,7 +28,8 @@ while i <=5:
 #Atividade 03
 for numero in range(0, 10, 2):
     print(numero)
-
+numero = 0
 while numero <=10:
     print(numero)
     numero +=2
+
